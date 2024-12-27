@@ -3,54 +3,54 @@ import styles from '../styles/ContactCode.module.css';
 const contactItems = [
   {
     social: 'website',
-    link: 'https://jasminet2001.github.io/portfolio/un',
-    href: 'https://jasminet2001.github.io/portfolio/',
+    link: 'https://jasminetavakkoli.liara.run/',
+    href: 'https://jasminetavakkoli.liara.run/',
   },
   {
     social: 'email',
-    link: 'nitinranganath@gmail.com',
-    href: 'mailto:nitinranganath@gmail.com',
+    link: 'jasminetavakkoli@gmail.com',
+    href: 'mailto:jasminetavakkoli@gmail.com',
   },
   {
     social: 'github',
-    link: 'itsnitinr',
-    href: 'https://github.com/itsnitinr',
+    link: 'jasminet2001',
+    href: 'https://github.com/jasminet2001',
   },
   {
     social: 'linkedin',
-    link: 'nitinranganath',
-    href: 'https://www.linkedin.com/in/nitinranganath/',
+    link: 'Jasmine Tavakkoli',
+    href: 'https://www.linkedin.com/in/yasaman-tavakkoli/',
   },
   {
     social: 'twitter',
-    link: 'iamnitinr',
-    href: 'https://www.twitter.com/iamnitinr',
+    link: 'Jasmine T',
+    href: 'https://x.com/JasmineT200',
   },
-  {
-    social: 'instagram',
-    link: 'iamnitinr',
-    href: 'https://www.instagram.com/iamnitinr',
-  },
-  {
-    social: 'polywork',
-    link: 'nitinranganath',
-    href: 'https://www.polywork.com/nitinranganath',
-  },
-  {
-    social: 'telegram',
-    link: 'iamnitinr',
-    href: 'https://t.me/iamnitinr',
-  },
-  {
-    social: 'codepen',
-    link: 'nitinranganath',
-    href: 'https://codepen.io/itsnitinr',
-  },
-  {
-    social: 'codesandbox',
-    link: 'itsnitinr',
-    href: 'https://codesandbox.io/u/itsnitinr',
-  },
+  // {
+  //   social: 'instagram',
+  //   link: 'iamnitinr',
+  //   href: 'https://www.instagram.com/iamnitinr',
+  // },
+  // {
+  //   social: 'polywork',
+  //   link: 'nitinranganath',
+  //   href: 'https://www.polywork.com/nitinranganath',
+  // },
+  // {
+  //   social: 'telegram',
+  //   link: 'iamnitinr',
+  //   href: 'https://t.me/iamnitinr',
+  // },
+  // {
+  //   social: 'codepen',
+  //   link: 'nitinranganath',
+  //   href: 'https://codepen.io/itsnitinr',
+  // },
+  // {
+  //   social: 'codesandbox',
+  //   link: 'itsnitinr',
+  //   href: 'https://codesandbox.io/u/itsnitinr',
+  // },
 ];
 
 const ContactCode = () => {
