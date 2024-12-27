@@ -3,7 +3,7 @@ import styles from '../styles/ContactCode.module.css';
 const contactItems = [
   {
     social: 'website',
-    link: 'https://jasminetavakkoli.liara.run/',
+    link: 'jasminetavakkoli.liara.run',
     href: 'https://jasminetavakkoli.liara.run/',
   },
   {
