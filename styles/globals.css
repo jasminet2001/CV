@@ -15,7 +15,18 @@
 .react:hover {
   background: rgba(97, 218, 251, 0.25);
 }
-
+.react-router {
+  border: 2px solid rgb(255, 65, 84);
+}
+.react-router:hover {
+  background: rgba(255, 65, 84, 0.25);
+}
+.django {
+  border: 0.1rem solid rgb(29, 242, 143);
+}
+.django:hover {
+  background: rgb(2, 175, 95);
+}
 .node {
   border: 0.1rem solid rgb(131, 205, 41);
 }
@@ -85,3 +96,37 @@
 .css-modules:hover {
   background: rgba(21, 114, 182, 0.25);
 }
+
+.csharp {
+  border: 2px solid rgb(120, 21, 182);
+}
+.csharp:hover {
+  background: rgb(71, 5, 112);
+}
+.WPF {
+  border: 2px solid rgb(214, 29, 131);
+}
+.WPF:hover {
+  background: rgb(134, 12, 79);
+}
+.OOP {
+  border: 2px solid rgb(230, 34, 34);
+}
+.OOP:hover {
+  background: rgb(150, 11, 11);
+}
+
+.Unity {
+  border: 2px solid rgb(201, 22, 255);
+}
+.Unity:hover {
+  background: rgb(107, 1, 139);
+}
+
+.Game {
+  border: 2px solid rgb(232, 109, 22);
+}
+.Game:hover {
+  background: rgb(125, 56, 6);
+}
+

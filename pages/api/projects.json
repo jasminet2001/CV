@@ -1,37 +1,37 @@
 [
   {
     "id": 1,
-    "name": "Driwwwle",
-    "image": "https://imgur.com/kbGs6zH.png",
-    "description": "A platform for web developers to showcase their projects",
-    "tags": ["next", "node", "mongodb", "tailwind", "react-query"],
-    "source_code": "https://github.com/itsnitinr/driwwwle-v2",
-    "demo": "https://driwwwle.com/"
+    "name": "AcademicWeapon - Educational Platform for Enhanced Learning Focus",
+    "image": "https://private-user-images.githubusercontent.com/16831241/399088719-9729dda8-35be-43a9-b54e-2ee77a8204ba.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzUzOTY5NjQsIm5iZiI6MTczNTM5NjY2NCwicGF0aCI6Ii8xNjgzMTI0MS8zOTkwODg3MTktOTcyOWRkYTgtMzViZS00M2E5LWI1NGUtMmVlNzdhODIwNGJhLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDEyMjglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMjI4VDE0Mzc0NFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTgxNjYxZmRhMThkNmNiNzM4NzEyOTRlNTJkNzFmZTVhMGQ2ZjAyZTZkNTliMTc3YjZlNzA4MGU2ZGUwZjBiZGEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.VVK_HnGBXBns5FIuY8VTPXh04_OYWasdzGILgPNCE6A",
+    "description": "I have developed a comprehensive tool aimed at boosting students’ focus and progress and productivity, featuring a Pomodoro timer to help manage study sessions.",
+    "tags": ["django", "react-router", "react"],
+    "source_code": "https://github.com/jasminet2001/Academic-Weapon",
+    "demo": "https://github.com/jasminet2001/Academic-Weapon/blob/project-video/frontend/src/video/academic-weapon-2.mp4"
   },
   {
     "id": 2,
-    "name": "PCB Cupid",
-    "image": "https://imgur.com/tAZotn3.png",
-    "description": "E-commerce website for a PCB manufacturing company",
-    "tags": ["react", "node", "mongodb", "redux", "razorpay", "material-ui"],
-    "demo": "https://www.pcbcupid.com/"
+    "name": "Unity Endless Runner",
+    "image": "https://camo.githubusercontent.com/f8c7581c9d891023188fb9885c00356094e794528f7579958c78a0c8c7fc808c/68747470733a2f2f6a61736d696e6574323030312e6769746875622e696f2f706f7274666f6c696f2f696d616765732f756e6974792e676966",
+    "description": "This is my first unity project. I decided to create an endless runner game (pretty typical ik!). However, I think it was a great start point for learning Unity. I also plan on learning more about Unity and creating compelling projects!",
+    "tags": ["csharp", "Unity", "OOP", "Game"],
+    "demo": "https://github.com/jasminet2001/EndlessRunner-Unity"
   },
   {
     "id": 3,
-    "name": "HealthyWays",
-    "image": "https://imgur.com/8FFqaX8.png",
-    "description": "A food ordering platform for healthy and home-cooked meals",
-    "tags": ["react", "node", "mongodb", "redux", "razorpay", "material-ui"],
-    "source_code": "https://github.com/itsnitinr/healthyways",
-    "demo": "https://healthyways.herokuapp.com/"
+    "name": "C# Exercises",
+    "image": "https://jasminet2001.github.io/portfolio/images/shop-app.PNG",
+    "description": "I am practising C# and these are my most interesting mini-projects: Book Store Shop Management Program IMDB(I really enjoyed coding this one!) Sudoku Small Employee Management System",
+    "tags": ["csharp", "WPF", "OOP"],
+    "source_code": "https://github.com/jasminet2001/CSharp",
+    "demo": "https://github.com/jasminet2001/CSharp"
   },
   {
     "id": 4,
-    "name": "VSCode Portfolio",
-    "image": "https://imgur.com/mKkz0iz.png",
-    "description": "A themeable and developer-centric portfolio based on the VSCode",
-    "tags": ["next", "css-modules"],
-    "source_code": "https://github.com/itsnitinr/vscode-portfolio",
-    "demo": "http://vscode-portfolio.vercel.app/"
+    "name": "WPF Library Project",
+    "image": "https://jasminet2001.github.io/portfolio/images/wpf-1.PNG",
+    "description": "I am practising C# and these are my most interesting mini-projects: Book Store Shop Management Program IMDB(I really enjoyed coding this one!) Sudoku Small Employee Management System",
+    "tags": ["csharp", "WPF", "OOP"],
+    "source_code": "https://github.com/wpfproject2021/wpf",
+    "demo": "https://youtu.be/SlPs9DV84nA?si=hzBZR2sTezcVaYUb"
   }
 ]
