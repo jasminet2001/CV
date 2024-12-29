@@ -89,14 +89,36 @@
 .react-query:hover {
   background: rgba(255, 65, 84, 0.25);
 }
-
+.VueJS {
+  border: 2px solid rgb(65, 255, 71);
+}
+.VueJS:hover {
+  background: rgb(4, 189, 10);
+}
+.Vuetify {
+  border: 2px solid rgb(3, 162, 35);
+}
+.Vuetify:hover {
+  background: rgb(4, 189, 10);
+}
 .css-modules {
   border: 2px solid rgb(21, 114, 182);
 }
 .css-modules:hover {
   background: rgba(21, 114, 182, 0.25);
 }
-
+.css {
+  border: 2px solid rgb(21, 114, 182);
+}
+.css:hover {
+  background: rgba(21, 114, 182, 0.25);
+}
+.html {
+  border: 2px solid rgb(240, 236, 30);
+}
+.html:hover {
+  background: rgb(195, 192, 9);
+}
 .csharp {
   border: 2px solid rgb(120, 21, 182);
 }
@@ -129,4 +151,15 @@
 .Game:hover {
   background: rgb(125, 56, 6);
 }
-
+.python {
+  border: 2px solid rgb(54, 88, 240);
+}
+.python:hover {
+  background: rgb(4, 34, 170);
+}
+.AI-packages {
+  border: 2px solid rgb(43, 157, 238);
+}
+.AI-packages:hover {
+  background: rgb(4, 104, 176);
+}

@@ -10,6 +10,33 @@
   },
   {
     "id": 2,
+    "name": "Artificial Intelligence projects (CS188)",
+    "image": "https://inst.eecs.berkeley.edu/~cs188/sp24/assets/images/logo.png",
+    "description": "I have developed foundational projects in AI, covering the areas such as Decision Tree, Genetics Algorithm, SVM, RL, Neural Networks, A* Algorithm",
+    "tags": ["python", "AI-packages"],
+    "source_code": "https://github.com/jasminet2001/CS188-AI",
+    "demo": "https://github.com/jasminet2001/CS188-AI"
+  },
+  {
+    "id": 3,
+    "name": "Dynamic Website",
+    "image": "https://user-images.githubusercontent.com/16831241/211131050-02dce0b3-0016-4bb8-97da-0405e736b686.png",
+    "description": "A website for finding related industries (B2B) developed in a small project team of 5. It was designed using a combination of CSS, Vuetify, and Vue.JS.",
+    "tags": ["VueJS", "Vuetify"],
+    "source_code": "https://github.com/jasminet2001/Frontend",
+    "demo": "https://github.com/jasminet2001/React/blob/a6d151ff0b3b4f4b926d60a3d9b5c866365aa139/VueProject.gif"
+  },
+  {
+    "id": 4,
+    "name": "Banking management System",
+    "image": "https://user-images.githubusercontent.com/16831241/211131021-5957950a-90ba-4d39-80e4-575a68ec1e85.png",
+    "description": "This project is created as a banking management system. Vue3 and Vuetify were used in the making of the frontend. This project is mostly responsive in design.",
+    "tags": ["VueJS", "Vuetify"],
+    "source_code": "https://github.com/jasminet2001/Database-Lab",
+    "demo": "https://github.com/jasminet2001/CS188-AI"
+  },
+  {
+    "id": 5,
     "name": "Unity Endless Runner",
     "image": "https://camo.githubusercontent.com/f8c7581c9d891023188fb9885c00356094e794528f7579958c78a0c8c7fc808c/68747470733a2f2f6a61736d696e6574323030312e6769746875622e696f2f706f7274666f6c696f2f696d616765732f756e6974792e676966",
     "description": "This is my first unity project. I decided to create an endless runner game (pretty typical ik!). However, I think it was a great start point for learning Unity. I also plan on learning more about Unity and creating compelling projects!",
@@ -17,7 +44,7 @@
     "demo": "https://github.com/jasminet2001/EndlessRunner-Unity"
   },
   {
-    "id": 3,
+    "id": 6,
     "name": "C# Exercises",
     "image": "https://jasminet2001.github.io/portfolio/images/shop-app.PNG",
     "description": "I am practising C# and these are my most interesting mini-projects: Book Store Shop Management Program IMDB(I really enjoyed coding this one!) Sudoku Small Employee Management System",
@@ -26,12 +53,21 @@
     "demo": "https://github.com/jasminet2001/CSharp"
   },
   {
-    "id": 4,
+    "id": 7,
     "name": "WPF Library Project",
     "image": "https://jasminet2001.github.io/portfolio/images/wpf-1.PNG",
     "description": "I am practising C# and these are my most interesting mini-projects: Book Store Shop Management Program IMDB(I really enjoyed coding this one!) Sudoku Small Employee Management System",
     "tags": ["csharp", "WPF", "OOP"],
     "source_code": "https://github.com/wpfproject2021/wpf",
     "demo": "https://youtu.be/SlPs9DV84nA?si=hzBZR2sTezcVaYUb"
+  },
+  {
+    "id": 8,
+    "name": "Static Website",
+    "image": "https://jasminet2001.github.io/portfolio/images/wpf-1.PNG",
+    "description": "This is my first static website project. I created a simple website using HTML and CSS.",
+    "tags": ["html", "css"],
+    "source_code": "https://github.com/jasminet2001/Static-Website",
+    "demo": "https://github.com/jasminet2001/Static-Website"
   }
 ]
