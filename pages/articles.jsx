@@ -45,7 +45,7 @@ const ArticlesPage = ({ articles }) => {
 
 export async function getStaticProps() {
   const res = await fetch(
-    'https://dev.to/api/articles?per_page=6' 
+    'https://dev.to/api/articles?per_page=8' 
   );
 
   let data = [];
