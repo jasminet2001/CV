@@ -54,24 +54,26 @@ export async function getStaticProps() {
     `https://api.github.com/users/${process.env.NEXT_PUBLIC_GITHUB_USERNAME}`,
     {
       headers: {
-        Authorization: `token ${process.env.GITHUB_API_KEY}`,
+        Authorization: `Bearer ${process.env.GITHUB_API_KEY}`,
       },
+      
     }
-  );
+  )     
 
   const user = await userRes.json();
-
+  
   const repoRes = await fetch(
     `https://api.github.com/users/${process.env.NEXT_PUBLIC_GITHUB_USERNAME}/repos?per_page=10`,
     {
       headers: {
-        Authorization: `token ${process.env.GITHUB_API_KEY}`,
+        Authorization: `Bearer ${process.env.GITHUB_API_KEY}`,
       },
     }
   );
 
   let repos = await repoRes.json();
-
+  //console.log(await userRes.json());
+  //console.log(await repoRes.json());
   if (!Array.isArray(repos)) {
     console.error("Repos is not an array:", repos);
     repos = []; // Fallback to an empty array
@@ -82,10 +84,14 @@ export async function getStaticProps() {
     repos = repos
       .sort((a, b) => b.stargazers_count - a.stargazers_count)
       .slice(0, 6);
+      console.log(await userRes.json());
+      console.log(await repoRes.json());
+      console.log(repos)
   } catch (error) {
     console.error("Error sorting repos:", error);
     repos = []; // Fallback to an empty array
     console.log(repos)
+
   }
 
   return {
