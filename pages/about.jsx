@@ -9,7 +9,7 @@ const AboutPage = () => {
       I enjoy solving complex problems, mentoring students, and learning about new technologies.
       </p>
       <br/><br/>
-      <p>You can Review my CV <a href="">here!</a></p>
+      <p>You can Review my CV <a href="https://drive.google.com/file/d/1HZugn2oLmeu4SHnxqD2Z_KnZyPDrXbpO/view?usp=sharing">here!</a></p>
       <br/><br/>
       <img src="https://i.postimg.cc/8c058ZC8/doggo.gif" height={200}/>
     </>
